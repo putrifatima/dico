@@ -1,2 +1,2 @@
-# dico
+# Dico
 toko dico
